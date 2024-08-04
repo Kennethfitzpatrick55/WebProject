@@ -1,5 +1,6 @@
 ﻿
-body {
+body
+{
     /* Background color */
     color: black;
     
@@ -9,22 +10,25 @@ body {
         color: white;
       
        }
-    div {
+    div 
+    {
         color:white;
     }
 
 /* modifed div box values */
-div {
+div 
+
+{
     width: 300px;
     margin: auto;
     background-color: #000000;
 }
-canvas{
-    position:fixed;
-    top:0;
-    left:0;
-}
+canvas
+{
+   outline-width:thick;
+   outline-color:yellow;
 
+}
 
 
 
