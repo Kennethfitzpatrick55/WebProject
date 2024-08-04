@@ -1,2 +1,12 @@
 ﻿body {
+    /* Background color */
+    background-color: lightblue;
+
 }
+/* modifed div box values */
+div {
+    width: 300px;
+    margin: auto;
+    background-color: #FFF4A3;
+}
+

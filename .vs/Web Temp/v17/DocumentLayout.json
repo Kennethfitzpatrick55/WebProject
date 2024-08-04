@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Repos\\Web Temp\\WebProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|d:\\repos\\web temp\\webproject\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|d:\\repos\\web temp\\webproject\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -18,15 +22,34 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.html",
               "DocumentMoniker": "D:\\Repos\\Web Temp\\WebProject\\Index.html",
               "RelativeDocumentMoniker": "Index.html",
               "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\Index.html",
               "RelativeToolTip": "Index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-08-04T07:03:51.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "D:\\Repos\\Web Temp\\WebProject\\Css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "Css\\StyleSheet.css",
+              "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\Css\\StyleSheet.css",
+              "RelativeToolTip": "Css\\StyleSheet.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-04T07:38:06.472Z",
               "EditorCaption": ""
             }
           ]
