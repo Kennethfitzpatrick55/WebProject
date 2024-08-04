@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\Repo\\Webtest\\WebProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|d:\\repo\\webtest\\webproject\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|D:\\Repo\\Webtest\\WebProject\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|d:\\repo\\webtest\\webproject\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|D:\\Repo\\Webtest\\WebProject\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|solutionrelative:css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|d:\\repo\\webtest\\webproject\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|solutionrelative:js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|D:\\Repo\\Webtest\\WebProject\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,10 +25,6 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StyleSheet.css",
@@ -40,10 +32,15 @@
               "RelativeDocumentMoniker": "Css\\StyleSheet.css",
               "ToolTip": "D:\\Repo\\Webtest\\WebProject\\Css\\StyleSheet.css",
               "RelativeToolTip": "Css\\StyleSheet.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-08-04T21:31:38.22Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -53,7 +50,7 @@
               "RelativeDocumentMoniker": "Index.html",
               "ToolTip": "D:\\Repo\\Webtest\\WebProject\\Index.html",
               "RelativeToolTip": "Index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-08-04T21:00:30.38Z",
               "EditorCaption": ""
@@ -66,22 +63,10 @@
               "RelativeDocumentMoniker": "JS\\Main.js",
               "ToolTip": "D:\\Repo\\Webtest\\WebProject\\JS\\Main.js",
               "RelativeToolTip": "JS\\Main.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-08-04T17:39:20.105Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.html",
-              "DocumentMoniker": "D:\\Repo\\Webtest\\WebProject\\Index.html",
-              "RelativeDocumentMoniker": "Index.html",
-              "ToolTip": "D:\\Repo\\Webtest\\WebProject\\Index.html",
-              "RelativeToolTip": "Index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-04T07:03:51.086Z"
             }
           ]
         }
