@@ -10,3 +10,9 @@ div {
     background-color: #FFF4A3;
 }
 
+canvas 
+{
+    position:fixed;
+    top:0;
+    left:0;
+}
