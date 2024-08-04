@@ -1,4 +1,4 @@
-﻿import "Css/StyleSheet.css"
+import 'StyleSheet.css'
 import * as THREE from 'three';
 
 const scene = new THREE.Scene();

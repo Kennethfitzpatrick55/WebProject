@@ -1,6 +1,6 @@
 ﻿body {
     /* Background color */
-    background-color: lightblue;
+    
 
 }
 /* modifed div box values */
@@ -9,10 +9,12 @@ div {
     margin: auto;
     background-color: #FFF4A3;
 }
-
-canvas 
-{
+canvas{
     position:fixed;
     top:0;
     left:0;
 }
+
+
+
+
