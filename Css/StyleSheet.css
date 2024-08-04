@@ -1,13 +1,15 @@
-﻿body {
+﻿
+body {
     /* Background color */
     color: black;
+    
 }
-    h1 {
-        background-color: black;   
+   
+    h1 {   
         color: white;
+      
        }
     div {
-        background-color: black;
         color:white;
     }
 
