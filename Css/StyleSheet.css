@@ -1,13 +1,22 @@
 ﻿body {
     /* Background color */
-    
+    color: black;
+}
+    h1 {
+        background-color: black;   
+        color: white;
+       }
+    div {
+        background-color: black;
+        color white;
+    }
 
 }
 /* modifed div box values */
 div {
     width: 300px;
     margin: auto;
-    background-color: #FFF4A3;
+    background-color: #000000;
 }
 canvas{
     position:fixed;
