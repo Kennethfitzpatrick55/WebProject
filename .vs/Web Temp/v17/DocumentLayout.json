@@ -3,29 +3,16 @@
   "WorkspaceRootPath": "D:\\Repos\\Web Temp\\WebProject\\",
   "Documents": [
     {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|d:\\repos\\web temp\\webproject\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|d:\\repos\\web temp\\webproject\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|D:\\Repos\\Web Temp\\WebProject\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|d:\\repos\\web temp\\webproject\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-=======
-      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|D:\\Repo\\Webtest\\WebProject\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|D:\\Repo\\Webtest\\WebProject\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|solutionrelative:css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|d:\\repo\\webtest\\webproject\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repo\\Webtest\\WebProject|solutionrelative:js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
->>>>>>> b133867883c59ffbccc6dbe8ab888af4044edcf8
+      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|D:\\Repos\\Web Temp\\WebProject\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,27 +25,6 @@
           "SelectedChildIndex": 0,
           "Children": [
             {
-<<<<<<< HEAD
-=======
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StyleSheet.css",
-              "DocumentMoniker": "D:\\Repo\\Webtest\\WebProject\\Css\\StyleSheet.css",
-              "RelativeDocumentMoniker": "Css\\StyleSheet.css",
-              "ToolTip": "D:\\Repo\\Webtest\\WebProject\\Css\\StyleSheet.css",
-              "RelativeToolTip": "Css\\StyleSheet.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-04T21:31:38.22Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
->>>>>>> b133867883c59ffbccc6dbe8ab888af4044edcf8
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.html",
@@ -66,24 +32,20 @@
               "RelativeDocumentMoniker": "Index.html",
               "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\Index.html",
               "RelativeToolTip": "Index.html",
-<<<<<<< HEAD
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACAAAAAdAAAA",
-=======
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAAAAAA",
->>>>>>> b133867883c59ffbccc6dbe8ab888af4044edcf8
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-08-04T22:36:30.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Main.js",
               "DocumentMoniker": "D:\\Repos\\Web Temp\\WebProject\\JS\\Main.js",
               "RelativeDocumentMoniker": "JS\\Main.js",
               "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\JS\\Main.js",
               "RelativeToolTip": "JS\\Main.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-08-04T22:37:57.849Z",
               "EditorCaption": ""
@@ -96,26 +58,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-<<<<<<< HEAD
+              "DocumentIndex": 1,
               "Title": "StyleSheet.css",
               "DocumentMoniker": "D:\\Repos\\Web Temp\\WebProject\\Css\\StyleSheet.css",
               "RelativeDocumentMoniker": "Css\\StyleSheet.css",
               "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\Css\\StyleSheet.css",
               "RelativeToolTip": "Css\\StyleSheet.css",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-08-04T22:35:33.016Z",
-=======
-              "Title": "Main.js",
-              "DocumentMoniker": "D:\\Repo\\Webtest\\WebProject\\JS\\Main.js",
-              "RelativeDocumentMoniker": "JS\\Main.js",
-              "ToolTip": "D:\\Repo\\Webtest\\WebProject\\JS\\Main.js",
-              "RelativeToolTip": "JS\\Main.js",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-04T17:39:20.105Z",
->>>>>>> b133867883c59ffbccc6dbe8ab888af4044edcf8
               "EditorCaption": ""
             }
           ]
