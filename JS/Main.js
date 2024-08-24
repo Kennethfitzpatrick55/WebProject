@@ -1,4 +1,5 @@
-﻿import * as THREE from './three.module.js';
+﻿// Import Three.js if using npm
+import * as THREE from 'three';
 
 // Create a scene
 const scene = new THREE.Scene();
