@@ -1,35 +1,15 @@
 ﻿
-body
+html,body
 {
-    /* Background color */
-    color: black;
-  
-}
-   
-    h1 {  
-        color: white;
-        
-        
-       }
-    div 
-    {
-        color:white;
-    }
-
-/* modifed div box values */
-div 
-
-{
-    width: 300px;
-    margin: auto;
-    background-color: #000000;
-}
-canvas
-{
-   outline-width:thick;
-   outline-color:yellow;
-
+    height:100%;
 }
 
+#root-window
+{
+    height:100%;
+}
 
-
+#render-target
+{
+    height:100%;
+}

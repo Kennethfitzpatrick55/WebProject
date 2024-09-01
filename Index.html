@@ -3,37 +3,42 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="StyleSheet.css" />
-    <title>Berserker Games</title>
+    <link rel="stylesheet" href="Css/StyleSheet.css" />
+    <link rel="icon" href="data:,">
+    <script type="importmap">
+        {
+          "imports": {
+            "three": "./JS/three.module.js"
+          }
+        }
+    </script>
+    
 </head>
-<body bgcolor="black">
+<body>
 
-    <>
-    <!- header and menu ->
-    <h1 style="color:white;">
-        Welcome to my Labirinth
-    </h1>
-
-    <div class="menu">
-        <button class="btn-menu selected">Digital Art</button>
-        <button class="btn-menu">Paintings</button>
-        <button class="btn-menu">Resin</button>
-        <button class="btn-menu">Contact Me</button>
+    <div id="root-window">
+        <div id="render-target"></div>
     </div>
 
-    <! - Make the text white->
-    <p style="color:white;">My first paragraph.</p>
-    <div>
-        <h2 style="color:white;">NewYork</h2>
-        <p style="color:white;">SlumCity </p>
-        <p style="color:white;">RoachMotel </p>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.9/dat.gui.min.js"></script>
 
-    </div>
-    <canvas id="bg"></canvas>
+    <script type="module">
+        import { createScene } from './JS/Scene.js';
+        import { createCity } from './JS/City.js';
+        window.onload = () => {
+            const scene = createScene();
+            const city = createCity(8);
+            
+            console.log("City object:", city); // Debug log
+            scene.initialize(city);
+            window.scene = scene;
+            document.addEventListener('mousedown', window.scene.onMouseDown, false);
+            document.addEventListener('mouseup', window.scene.onMouseUp, false);
+            document.addEventListener('mousemove', window.scene.onMouseMove, false);
+            window.scene.start();
 
-    <script src="node_modules/three/build/three.min.js"></script>
-    <script type="module" src="JS/Main.js"></script>
+        }
+    </script>
 </body>
 
 

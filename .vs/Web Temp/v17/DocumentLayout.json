@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Repos\\Web Temp\\WebProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|d:\\repos\\web temp\\webproject\\js\\scene.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:js\\scene.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|D:\\Repos\\Web Temp\\WebProject\\js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:js\\camera.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|D:\\Repos\\Web Temp\\WebProject\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|D:\\Repos\\Web Temp\\WebProject\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|D:\\Repos\\Web Temp\\WebProject\\js\\city.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:js\\city.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|d:\\repos\\web temp\\webproject\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|D:\\Repos\\Web Temp\\WebProject\\js\\gui-controls.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D435AC1-A68A-4DCE-83ED-C90548426DB7}|D:\\Repos\\Web Temp\\WebProject|solutionrelative:js\\gui-controls.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,47 +33,63 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gui-Controls.js",
+              "DocumentMoniker": "D:\\Repos\\Web Temp\\WebProject\\JS\\Gui-Controls.js",
+              "RelativeDocumentMoniker": "JS\\Gui-Controls.js",
+              "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\JS\\Gui-Controls.js",
+              "RelativeToolTip": "JS\\Gui-Controls.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-28T18:02:25.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StyleSheet.css",
-              "DocumentMoniker": "D:\\Repos\\Web Temp\\WebProject\\Css\\StyleSheet.css",
-              "RelativeDocumentMoniker": "Css\\StyleSheet.css",
-              "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\Css\\StyleSheet.css",
-              "RelativeToolTip": "Css\\StyleSheet.css",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAcwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-24T15:26:44.967Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "City.js",
+              "DocumentMoniker": "D:\\Repos\\Web Temp\\WebProject\\JS\\City.js",
+              "RelativeDocumentMoniker": "JS\\City.js",
+              "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\JS\\City.js",
+              "RelativeToolTip": "JS\\City.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-25T23:28:55.847Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Main.js",
-              "DocumentMoniker": "D:\\Repos\\Web Temp\\WebProject\\JS\\Main.js",
-              "RelativeDocumentMoniker": "JS\\Main.js",
-              "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\JS\\Main.js",
-              "RelativeToolTip": "JS\\Main.js",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Title": "Camera.js",
+              "DocumentMoniker": "D:\\Repos\\Web Temp\\WebProject\\JS\\Camera.js",
+              "RelativeDocumentMoniker": "JS\\Camera.js",
+              "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\JS\\Camera.js",
+              "RelativeToolTip": "JS\\Camera.js",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-24T15:10:55.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T21:53:10.014Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Scene.js",
+              "DocumentMoniker": "D:\\Repos\\Web Temp\\WebProject\\JS\\Scene.js",
+              "RelativeDocumentMoniker": "JS\\Scene.js",
+              "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\JS\\Scene.js",
+              "RelativeToolTip": "JS\\Scene.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-24T21:51:46.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.html",
               "DocumentMoniker": "D:\\Repos\\Web Temp\\WebProject\\Index.html",
               "RelativeDocumentMoniker": "Index.html",
-              "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\Index.html*",
-              "RelativeToolTip": "Index.html*",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAACMAAAAZAAAA",
+              "ToolTip": "D:\\Repos\\Web Temp\\WebProject\\Index.html",
+              "RelativeToolTip": "Index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-04T22:36:30.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T22:36:30.048Z"
             }
           ]
         }
